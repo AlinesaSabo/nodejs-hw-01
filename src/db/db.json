@@ -1,1 +1,30 @@
-[]
+[
+  {
+    "id": "082abe22-a840-4a11-a6ac-f68d391396db",
+    "name": "Leah Zboncak",
+    "phone": "206.569.3398 x1617",
+    "email": "Candelario.Beahan@gmail.com",
+    "job": "Chief Applications Technician"
+  },
+  {
+    "id": "e576c213-e927-4a27-8661-494a716e6dd1",
+    "name": "Eileen Frami",
+    "phone": "1-782-897-6511 x905",
+    "email": "Carleton_Tillman79@yahoo.com",
+    "job": "Dynamic Applications Manager"
+  },
+  {
+    "id": "a8ea6e1a-bc60-4913-b8c2-f03e84a8f966",
+    "name": "Jim Mante",
+    "phone": "1-977-803-1698",
+    "email": "Kaci.Willms@hotmail.com",
+    "job": "Future Directives Producer"
+  },
+  {
+    "id": "8cdb0581-41e2-4bc9-b56a-c8547a063960",
+    "name": "Ronnie Rohan",
+    "phone": "(778) 247-7994 x735",
+    "email": "Javier.Romaguera@gmail.com",
+    "job": "Lead Data Liaison"
+  }
+]
